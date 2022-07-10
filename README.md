@@ -13,7 +13,7 @@
 This is a GUI based application running on Java with JSwing, that takes input from the user (information about employee) and saves, update and delete that record in database which is running on SQL server.
 
 
-The web application provides user with following options:
+The GUI application provides these following features:
 - Create new record of employee.
 - Update the record of existing employee.
 - Delete the record of selected employee.
