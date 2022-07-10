@@ -2,7 +2,7 @@
 
 ## Cognizant Internship Work
 
-#### Problem Statement :
+### Problem Statement :
 - Create a JAVA project which will fetch the data from Database (MySQL) and will show to the front end.
 - 
       Note:
@@ -19,7 +19,7 @@ The web application provides user with following options:
 - Delete the record of selected employee.
 - View all the records of employees.
 
-### Project Environment
+## Project Environment
 - JDK - https://www.oracle.com/java/technologies/downloads/
 - Netbeans - https://netbeans.apache.org/download/index.html
 - MySQL - https://dev.mysql.com/downloads/
